@@ -12,7 +12,7 @@ Add go to hosts:
 
 **Note: If the block hosts do not solve the problem, try block access firewall.**  
 
-After edited hosts, your can using the license key:  
+After edit hosts, your can using the license key:  
 
 ---
 —– BEGIN LICENSE —–  
