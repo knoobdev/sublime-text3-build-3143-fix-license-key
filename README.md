@@ -31,4 +31,4 @@ E36B85CC 84991F19 7575D828 470A92AB
 
 Enjoy !!!  
 
-Thanks to [Ramadhan. Reza](https://www.youtube.com/watch?v=-3Lu3t3R3mg)
+Thank to [Ramadhan. Reza](https://www.youtube.com/watch?v=-3Lu3t3R3mg)
